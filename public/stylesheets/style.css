@@ -1,0 +1,18 @@
+.keep-right-first{
+  margin-left: 1100px !important;
+}
+.set-border{
+  border-bottom: 1.4px solid #7f7f7f !important;
+}
+
+.description {
+  color: #7f7f7f;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 16px;
+}
+.one-row{
+  margin-bottom: 8px;
+}
